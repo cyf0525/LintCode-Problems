@@ -9,4 +9,5 @@ class Solution:
         for i in A:
             if A.count(i) == 1:
                 return i
-            
+
+
