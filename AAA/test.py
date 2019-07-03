@@ -1,2 +1,0 @@
-print "how to upload"
-
