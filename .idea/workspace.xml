@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51ab921a-4e07-413c-8fd2-92de4543591a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LintCode225.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LintCode228.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LintCode82.py" beforeDir="false" afterPath="$PROJECT_DIR$/LintCode82.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/shape.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/Practice/right_triangle.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -30,41 +29,83 @@
       <file leaf-file-name="shape.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice/shape.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LintCode487.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LintCode487.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LintCode56.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LintCode56.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LintCode483.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LintCode483.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LintCode225.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LintCode225.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LintCode228.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LintCode228.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LintCode777.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LintCode777.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rectangle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/rectangle.py">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="circle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/circle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="242">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -119,7 +160,19 @@
         <option value="$PROJECT_DIR$/Practice/circle.py" />
         <option value="$PROJECT_DIR$/Practice/rectangle.py" />
         <option value="$PROJECT_DIR$/Practice/ask.py" />
+        <option value="$PROJECT_DIR$/LintCode777.py" />
+        <option value="$PROJECT_DIR$/LintCode1204.py" />
+        <option value="$PROJECT_DIR$/LintCode1056.py" />
+        <option value="$PROJECT_DIR$/LintCode495.py" />
+        <option value="$PROJECT_DIR$/Practice/LintCode.py" />
         <option value="$PROJECT_DIR$/Practice/main.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test 2.py" />
+        <option value="$PROJECT_DIR$/LintCode487.py" />
+        <option value="$PROJECT_DIR$/LintCode56.py" />
+        <option value="$PROJECT_DIR$/LintCode483.py" />
+        <option value="$PROJECT_DIR$/LintCode225.py" />
+        <option value="$PROJECT_DIR$/LintCode228.py" />
       </list>
     </option>
   </component>
@@ -171,8 +224,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="LintCode03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="LintCode1056" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GitProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,7 +237,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LintCode03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LintCode1056.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,18 +297,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GitProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.LintCode03" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.Shape" />
       <item itemvalue="Python.LintCode1119" />
+      <item itemvalue="Python.LintCode1056" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.LintCode1056" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.LintCode1119" />
         <item itemvalue="Python.Shape" />
-        <item itemvalue="Python.LintCode03" />
       </list>
     </recent_temporary>
   </component>
@@ -276,14 +349,14 @@
     <frame x="0" y="23" width="1280" height="727" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -296,9 +369,9 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,20 +391,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LintCode82.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/right_triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -554,17 +613,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/shape.py">
+    <entry file="file://$PROJECT_DIR$/Practice/circle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/right_triangle.py">
+    <entry file="file://$PROJECT_DIR$/Practice/ask.py" />
+    <entry file="file://$PROJECT_DIR$/LintCode1056.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/LintCode.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LintCode495.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LintCode1204.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -578,30 +655,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/circle.py">
+    <entry file="file://$PROJECT_DIR$/Practice/shape.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/ask.py">
+    <entry file="file://$PROJECT_DIR$/Practice/right_triangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LintCode777.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="194">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LintCode56.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LintCode487.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LintCode483.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LintCode225.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LintCode228.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
     </entry>

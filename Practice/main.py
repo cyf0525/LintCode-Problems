@@ -1,7 +1,7 @@
 from right_triangle import RightTriangle
 from rectangle import Rectangle
 from circle import Circle
-import math
+
 
 ans_h = float(raw_input("give me a side of tri: "))
 ans_b = float(raw_input("give me a height of tri: "))
